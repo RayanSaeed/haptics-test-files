@@ -1,38 +1,22 @@
 {
     "Version": 1.0,
     "Metadata": {
-        "Name": "Other Sounds Transients",
-        "Description": "A collection of haptic transients for other sounds. Boosted & Max resolution"
+        "Name": "Other Sounds Continuous",
+        "Description": "A collection of haptic continuous for other sounds. Boosted & Max resolution & Custom"
     },
     "Pattern": [
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 5.3708124,
+                "Time": 5.3108125,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.3068321
+                        "ParameterValue": 0.38784432
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 5.4237914,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.3487634
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.030378202
+                        "ParameterValue": 0.011377645
                     }
                 ]
             }
@@ -44,7 +28,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.3432786
+                        "ParameterValue": 0.4496135
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -60,7 +44,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.3712285
+                        "ParameterValue": 0.48622125
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -76,7 +60,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.34119788
+                        "ParameterValue": 0.44688827
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -92,7 +76,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.37654674
+                        "ParameterValue": 0.49318686
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -108,7 +92,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.35569453
+                        "ParameterValue": 0.46587542
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -124,7 +108,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.35745984
+                        "ParameterValue": 0.4681876
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -140,7 +124,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.32354748
+                        "ParameterValue": 0.42377043
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -156,7 +140,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.37560925
+                        "ParameterValue": 0.491959
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -172,7 +156,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.36944988
+                        "ParameterValue": 0.4838917
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -188,7 +172,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.390834
+                        "ParameterValue": 0.51189977
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -204,7 +188,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.33543146
+                        "ParameterValue": 0.4393356
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -220,7 +204,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.3189038
+                        "ParameterValue": 0.4176883
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -236,7 +220,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.3502446
+                        "ParameterValue": 0.4587373
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -252,7 +236,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.37233457
+                        "ParameterValue": 0.48766997
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -268,7 +252,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.3566228
+                        "ParameterValue": 0.46709126
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -280,43 +264,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 6.349729,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.35638997
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 6.461729,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.36254627
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.023934836
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 6.488729,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.40469715
+                        "ParameterValue": 0.53005725
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -328,43 +280,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 6.518729,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.39348254
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0021404757
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 6.547708,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.35740268
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.036583174
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 6.5767083,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.37701666
+                        "ParameterValue": 0.4938024
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -376,15 +296,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 6.638708,
+                "Time": 6.717708,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.37725165
+                        "ParameterValue": 0.46904182
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
+                        "ParameterValue": 0.003788246
                     }
                 ]
             }
@@ -396,7 +316,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.41241667
+                        "ParameterValue": 0.540168
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -412,7 +332,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.48025897
+                        "ParameterValue": 0.6290253
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -424,63 +344,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 6.9096875,
+                "Time": 6.920687,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.43201536
+                        "ParameterValue": 0.57148296
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0055995337
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 6.9506874,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.40184075
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.062196482
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 6.9826875,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.49136168
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.040674843
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 7.0656877,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.51200366
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.018498972
+                        "ParameterValue": 0.05479644
                     }
                 ]
             }
@@ -492,7 +364,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.50277
+                        "ParameterValue": 0.65850943
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -508,7 +380,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.548874
+                        "ParameterValue": 0.7188947
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -520,27 +392,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 7.2166667,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.4805132
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0020867349
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 7.2606664,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5980636
+                        "ParameterValue": 0.7833214
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -552,43 +408,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 7.2896667,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.56968206
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.046966966
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 7.3166666,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5265049
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 7.353667,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.73343194
+                        "ParameterValue": 0.78711164
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -600,31 +424,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 7.3766665,
+                "Time": 7.4466457,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6814379
+                        "ParameterValue": 0.75397813
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 7.431646,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5990512
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.04542924
+                        "ParameterValue": 0.15458265
                     }
                 ]
             }
@@ -636,7 +444,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.67958826
+                        "ParameterValue": 0.72932714
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -652,7 +460,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7698826
+                        "ParameterValue": 0.8262301
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -668,7 +476,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.71265846
+                        "ParameterValue": 0.7648178
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -684,7 +492,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.84339684
+                        "ParameterValue": 0.90512484
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -696,43 +504,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 7.682646,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.66481733
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 7.713625,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6020734
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.08767322
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 7.7436247,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.8313701
+                        "ParameterValue": 0.8922179
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -744,15 +520,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 7.839625,
+                "Time": 7.850625,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.79044235
+                        "ParameterValue": 0.9346827
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.044671
+                        "ParameterValue": 0.0
                     }
                 ]
             }
@@ -764,7 +540,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6984073
+                        "ParameterValue": 0.7495235
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -776,27 +552,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 7.956625,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.70751685
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.008192945
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 8.039625,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.81937426
+                        "ParameterValue": 0.87934405
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -808,27 +568,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 8.075645,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.69463694
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.05673149
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 8.129666,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.8521568
+                        "ParameterValue": 0.9145259
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -840,27 +584,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 8.164687,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7823946
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0012259594
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 8.217709,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.83592886
+                        "ParameterValue": 0.8971103
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -872,79 +600,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 8.31775,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.63913023
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.13779496
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 8.34175,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7576981
+                        "ParameterValue": 0.81315386
                     },
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 8.36475,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.73816466
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.009618458
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 8.415771,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7877971
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.12354305
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 8.446792,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.719377
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.018506344
                     }
                 ]
             }
@@ -956,7 +620,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.8174508
+                        "ParameterValue": 0.8772798
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -968,27 +632,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 8.558833,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6327183
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 8.622854,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7895939
+                        "ParameterValue": 0.84738404
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -1000,27 +648,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 8.663875,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.62642974
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0019607563
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 8.707895,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.84508425
+                        "ParameterValue": 0.90693575
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -1032,59 +664,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 8.730917,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7549634
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0013766252
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 8.756917,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6638972
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0040330547
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 8.778937,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6630265
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.018225431
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 8.8099375,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.86941576
+                        "ParameterValue": 0.93304807
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -1096,27 +680,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 8.843958,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6702328
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 8.891979,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.840113
+                        "ParameterValue": 0.9016006
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -1128,27 +696,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 8.969,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7719876
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.03716458
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 9.000021,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7626886
+                        "ParameterValue": 0.8185096
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -1160,31 +712,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 9.052042,
+                "Time": 9.038041,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.73925066
+                        "ParameterValue": 0.8719489
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.003420767
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 9.092062,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5992793
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.12068892
+                        "ParameterValue": 0.0
                     }
                 ]
             }
@@ -1196,7 +732,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.79844975
+                        "ParameterValue": 0.85688806
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -1212,7 +748,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6680352
+                        "ParameterValue": 0.7169285
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -1224,15 +760,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 9.182083,
+                "Time": 9.187083,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.74252117
+                        "ParameterValue": 0.90030646
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.256195
+                        "ParameterValue": 0.10370356
                     }
                 ]
             }
@@ -1240,15 +776,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 9.209105,
+                "Time": 9.226104,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7022312
+                        "ParameterValue": 0.883734
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.014025429
+                        "ParameterValue": 0.018718695
                     }
                 ]
             }
@@ -1256,31 +792,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 9.241104,
+                "Time": 9.292125,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7141698
+                        "ParameterValue": 0.7590307
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.019272335
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 9.272125,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5835862
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.058809232
+                        "ParameterValue": 0.10813328
                     }
                 ]
             }
@@ -1292,7 +812,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7064159
+                        "ParameterValue": 0.75811833
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -1304,15 +824,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 9.368167,
+                "Time": 9.376166,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.581211
+                        "ParameterValue": 0.7797459
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.10670649
+                        "ParameterValue": 0.21338454
                     }
                 ]
             }
@@ -1320,31 +840,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 9.393167,
+                "Time": 12.846562,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.9296842
+                        "ParameterValue": 0.5205459
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.055684377
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 12.844563,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.3503109
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.1495239
+                        "ParameterValue": 0.19684513
                     }
                 ]
             }
@@ -1356,7 +860,7 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.41368303
+                        "ParameterValue": 0.4656081
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -1384,22 +888,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 13.016645,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7662585
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.00269288
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 13.060666,
                 "EventParameters": [
                     {
@@ -1416,15 +904,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 13.086666,
+                "Time": 13.104667,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7639546
+                        "ParameterValue": 0.91708064
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.068930894
+                        "ParameterValue": 0.26907164
                     }
                 ]
             }
@@ -1448,15 +936,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 13.317771,
+                "Time": 13.336771,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.37247136
+                        "ParameterValue": 0.8124763
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.008732822
+                        "ParameterValue": 0.12350834
                     }
                 ]
             }
@@ -1480,11 +968,27 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
+                "Time": 13.412791,
+                "EventParameters": [
+                    {
+                        "ParameterID": "HapticIntensity",
+                        "ParameterValue": 0.7935766
+                    },
+                    {
+                        "ParameterID": "HapticSharpness",
+                        "ParameterValue": 0.0
+                    }
+                ]
+            }
+        },
+        {
+            "Event": {
+                "EventType": "HapticTransient",
                 "Time": 13.449812,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5720455
+                        "ParameterValue": 0.6438481
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -1500,11 +1004,43 @@
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6558386
+                        "ParameterValue": 0.7993399
                     },
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.072104104
+                    }
+                ]
+            }
+        },
+        {
+            "Event": {
+                "EventType": "HapticTransient",
+                "Time": 31.852125,
+                "EventParameters": [
+                    {
+                        "ParameterID": "HapticIntensity",
+                        "ParameterValue": 0.32661447
+                    },
+                    {
+                        "ParameterID": "HapticSharpness",
+                        "ParameterValue": 0.0
+                    }
+                ]
+            }
+        },
+        {
+            "Event": {
+                "EventType": "HapticTransient",
+                "Time": 31.909103,
+                "EventParameters": [
+                    {
+                        "ParameterID": "HapticIntensity",
+                        "ParameterValue": 0.35254663
+                    },
+                    {
+                        "ParameterID": "HapticSharpness",
+                        "ParameterValue": 0.0031052704
                     }
                 ]
             }
@@ -1517,38 +1053,6 @@
                     {
                         "ParameterID": "HapticIntensity",
                         "ParameterValue": 0.36300227
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 32.081,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.3906465
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.008394561
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 32.138977,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.4493448
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -1704,22 +1208,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 32.685665,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.48131496
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.03721514
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 32.718647,
                 "EventParameters": [
                     {
@@ -1729,38 +1217,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 32.775623,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5543763
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0052679004
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 32.800602,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.51982856
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.059222158
                     }
                 ]
             }
@@ -1816,47 +1272,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 32.973522,
+                "Time": 33.0075,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5648546
+                        "ParameterValue": 0.88586575
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.06946204
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 33.0005,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.46773666
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.21873173
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 33.064457,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.63750434
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
+                        "ParameterValue": 0.03453958
                     }
                 ]
             }
@@ -1912,22 +1336,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 33.29233,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.57940847
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.024284173
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 33.353313,
                 "EventParameters": [
                     {
@@ -1976,22 +1384,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 33.524208,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.53963834
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.04045263
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 33.583187,
                 "EventParameters": [
                     {
@@ -2001,22 +1393,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.04212622
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 33.613167,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5647279
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.003770448
                     }
                 ]
             }
@@ -2040,22 +1416,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 33.668125,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.52619827
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0255941
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 33.696125,
                 "EventParameters": [
                     {
@@ -2065,22 +1425,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.035901185
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 33.757084,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.62535316
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0009404855
                     }
                 ]
             }
@@ -2104,111 +1448,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 33.840042,
+                "Time": 33.94698,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6331435
+                        "ParameterValue": 0.674947
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.08417022
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 33.87402,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5998674
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 33.898,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5605569
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.074327715
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 33.93098,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.59068674
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 34.000957,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.49014124
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 34.04194,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5291503
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.036954038
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 34.070915,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5945964
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.04904992
+                        "ParameterValue": 0.024674555
                     }
                 ]
             }
@@ -2225,22 +1473,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 34.127876,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5524592
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.07442692
                     }
                 ]
             }
@@ -2296,22 +1528,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 34.300793,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.57487464
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.059348676
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 34.33377,
                 "EventParameters": [
                     {
@@ -2321,54 +1537,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 34.35775,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.54156643
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.05309606
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 34.38773,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.63202274
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.07862381
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 34.42571,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.64877397
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.08941421
                     }
                 ]
             }
@@ -2408,22 +1576,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 34.544647,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5682198
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 34.577625,
                 "EventParameters": [
                     {
@@ -2449,22 +1601,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 34.645603,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.61874837
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.091710985
                     }
                 ]
             }
@@ -2504,38 +1640,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 34.76154,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.56858504
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.055927444
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 34.79052,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6086783
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.034152847
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 34.8185,
                 "EventParameters": [
                     {
@@ -2545,38 +1649,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.11631662
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 34.84848,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.56755424
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0816187
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 34.87648,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5462095
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.09738976
                     }
                 ]
             }
@@ -2632,47 +1704,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 35.078354,
+                "Time": 35.13933,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5820283
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.08014623
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 35.124332,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6253924
+                        "ParameterValue": 0.7565045
                     },
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 35.197292,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.64188457
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.00032181328
                     }
                 ]
             }
@@ -2696,22 +1736,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 35.255272,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6642668
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 35.32023,
                 "EventParameters": [
                     {
@@ -2728,59 +1752,11 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 35.366207,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.63513434
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.055977132
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 35.428165,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
                         "ParameterValue": 0.683171
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 35.460144,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.64759725
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0006135019
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 35.486126,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.70890355
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -2840,22 +1816,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 35.682022,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7317414
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.11632762
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 35.714,
                 "EventParameters": [
                     {
@@ -2872,63 +1832,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 35.75,
+                "Time": 35.79696,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6868398
+                        "ParameterValue": 0.79713327
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 35.77998,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7206252
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 35.82596,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.73820543
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.20143381
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 35.863937,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7206028
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
+                        "ParameterValue": 0.14917769
                     }
                 ]
             }
@@ -2945,22 +1857,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.052447338
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 35.915894,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7714625
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
                     }
                 ]
             }
@@ -3064,22 +1960,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 36.14277,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.8187996
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.1476285
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 36.16875,
                 "EventParameters": [
                     {
@@ -3128,15 +2008,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 36.315685,
+                "Time": 36.294685,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.88611
+                        "ParameterValue": 0.997761
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.1500574
+                        "ParameterValue": 0.0
                     }
                 ]
             }
@@ -3160,15 +2040,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 36.374645,
+                "Time": 36.380646,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
+                        "ParameterValue": 0.99972767
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.33892822
+                        "ParameterValue": 0.0
                     }
                 ]
             }
@@ -3185,22 +2065,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.21395586
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 36.432625,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.9213097
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.20831215
                     }
                 ]
             }
@@ -3233,70 +2097,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.56234306
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 36.57254,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.9967756
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.5398788
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 36.6315,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.5051318
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 36.747437,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.54866916
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 36.801414,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.8056066
                     }
                 ]
             }
@@ -3352,7 +2152,7 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 37.208187,
+                "Time": 37.323124,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
@@ -3360,39 +2160,7 @@
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.84006655
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 37.264168,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.8663726
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 37.320126,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.9518394
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.40033102
+                        "ParameterValue": 0.53844357
                     }
                 ]
             }
@@ -3432,22 +2200,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 37.49802,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.64213204
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 37.562,
                 "EventParameters": [
                     {
@@ -3480,7 +2232,7 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 37.786873,
+                "Time": 37.96477,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
@@ -3488,39 +2240,7 @@
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.57783496
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 38.140667,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.63445675
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 38.199646,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.35711712
+                        "ParameterValue": 0.80296546
                     }
                 ]
             }
@@ -3544,22 +2264,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 38.284603,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.9801809
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.2047444
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 38.30958,
                 "EventParameters": [
                     {
@@ -3576,22 +2280,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 38.343563,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.9892118
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.13563257
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 38.37154,
                 "EventParameters": [
                     {
@@ -3601,22 +2289,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.40841272
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 38.40354,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.86444205
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.012595798
                     }
                 ]
             }
@@ -3656,54 +2328,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 38.51748,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.92614174
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.057730116
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 38.550457,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.9034345
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 38.582436,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.8116384
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.013828688
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 38.612415,
                 "EventParameters": [
                     {
@@ -3725,22 +2349,6 @@
                     {
                         "ParameterID": "HapticIntensity",
                         "ParameterValue": 0.8397279
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 38.700375,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7226183
                     },
                     {
                         "ParameterID": "HapticSharpness",
@@ -3832,22 +2440,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 39.006207,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.62840414
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.09636192
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 39.060165,
                 "EventParameters": [
                     {
@@ -3857,22 +2449,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 39.094147,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5989211
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.05337213
                     }
                 ]
             }
@@ -3896,22 +2472,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 39.180103,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.62923163
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.054737337
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 39.237083,
                 "EventParameters": [
                     {
@@ -3921,22 +2481,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.07697806
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 39.267063,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5605506
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.058345582
                     }
                 ]
             }
@@ -3960,15 +2504,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 39.33402,
+                "Time": 39.353,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5854432
+                        "ParameterValue": 0.6418057
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.05651923
+                        "ParameterValue": 0.10308675
                     }
                 ]
             }
@@ -4024,22 +2568,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 39.555897,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.53748196
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.03470506
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 39.584873,
                 "EventParameters": [
                     {
@@ -4072,22 +2600,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 39.670834,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5460622
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.09226323
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 39.700813,
                 "EventParameters": [
                     {
@@ -4097,22 +2609,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.08006872
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 39.76379,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.60398227
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
                     }
                 ]
             }
@@ -4136,22 +2632,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 39.82275,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.64211637
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 39.87573,
                 "EventParameters": [
                     {
@@ -4168,47 +2648,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 39.932686,
+                "Time": 40.000645,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6567947
+                        "ParameterValue": 0.5863073
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.093231656
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 39.960667,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.5971821
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.096834205
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 39.986668,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.64496434
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.16765131
+                        "ParameterValue": 0.0
                     }
                 ]
             }
@@ -4264,22 +2712,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 40.193542,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6416687
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.04411974
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 40.22254,
                 "EventParameters": [
                     {
@@ -4312,22 +2744,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 40.30848,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6299958
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.07548265
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 40.343456,
                 "EventParameters": [
                     {
@@ -4344,22 +2760,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 40.36746,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.56401426
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.03498691
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 40.39644,
                 "EventParameters": [
                     {
@@ -4369,22 +2769,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.13925856
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 40.454395,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6323376
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.08325719
                     }
                 ]
             }
@@ -4440,38 +2824,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 40.68727,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6215175
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.07307366
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 40.74425,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6372341
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.084536865
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 40.811207,
                 "EventParameters": [
                     {
@@ -4497,22 +2849,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.09983139
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 40.898167,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.6165463
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0004938848
                     }
                 ]
             }
@@ -4552,22 +2888,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 41.000103,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.65635467
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.058595434
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 41.034084,
                 "EventParameters": [
                     {
@@ -4600,22 +2920,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 41.12804,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.72292024
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 41.14902,
                 "EventParameters": [
                     {
@@ -4625,54 +2929,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.15894598
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 41.179,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7777882
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.05898747
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 41.21298,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.727611
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 41.23698,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.7609605
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.13928631
                     }
                 ]
             }
@@ -4728,31 +2984,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 41.451855,
+                "Time": 41.468853,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.8024363
+                        "ParameterValue": 0.87308
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 41.499832,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.8422369
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.16825372
+                        "ParameterValue": 0.19783998
                     }
                 ]
             }
@@ -4840,22 +3080,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 41.816647,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.97129625
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.11777966
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 41.852646,
                 "EventParameters": [
                     {
@@ -4865,54 +3089,6 @@
                     {
                         "ParameterID": "HapticSharpness",
                         "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 41.875626,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.12848376
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 41.898605,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.3266489
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 41.923603,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.9478276
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.01273401
                     }
                 ]
             }
@@ -4952,7 +3128,23 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 42.05052,
+                "Time": 42.05452,
+                "EventParameters": [
+                    {
+                        "ParameterID": "HapticIntensity",
+                        "ParameterValue": 0.99769294
+                    },
+                    {
+                        "ParameterID": "HapticSharpness",
+                        "ParameterValue": 0.0
+                    }
+                ]
+            }
+        },
+        {
+            "Event": {
+                "EventType": "HapticTransient",
+                "Time": 42.07652,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
@@ -4960,7 +3152,7 @@
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.072794504
+                        "ParameterValue": 0.38653204
                     }
                 ]
             }
@@ -4968,47 +3160,15 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 42.07152,
+                "Time": 42.1165,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.8871251
+                        "ParameterValue": 0.9795172
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.5409654
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 42.1065,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.19045725
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 42.130478,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.9719795
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.5551646
+                        "ParameterValue": 0.0
                     }
                 ]
             }
@@ -5048,22 +3208,6 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 42.219437,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.19021888
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
                 "Time": 42.250416,
                 "EventParameters": [
                     {
@@ -5080,23 +3224,7 @@
         {
             "Event": {
                 "EventType": "HapticTransient",
-                "Time": 42.288395,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 0.9835835
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.0
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 42.336376,
+                "Time": 42.302395,
                 "EventParameters": [
                     {
                         "ParameterID": "HapticIntensity",
@@ -5104,23 +3232,7 @@
                     },
                     {
                         "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.2816213
-                    }
-                ]
-            }
-        },
-        {
-            "Event": {
-                "EventType": "HapticTransient",
-                "Time": 42.47329,
-                "EventParameters": [
-                    {
-                        "ParameterID": "HapticIntensity",
-                        "ParameterValue": 1.0
-                    },
-                    {
-                        "ParameterID": "HapticSharpness",
-                        "ParameterValue": 0.4076198
+                        "ParameterValue": 0.43093455
                     }
                 ]
             }
