@@ -1,9 +1,9 @@
 {
   "Version": 1,
   "Metadata": {
-    "Project": "Merged Haptic File",
+    "Project": "Merged Haptic Effects",
     "Created": "2025-01-24",
-    "Description": "Merged: A continuous haptic pattern for the camera click sound. | Haptics with breathing effect: alternating intensity (0.3/0.4) and sharpness (0.6/0.7), 1.0 for special words"
+    "Description": "Merged Patterns: A continuous haptic pattern for the camera click sound. | Haptics with breathing effect: alternating intensity (0.3/0.4) and sharpness (0.6/0.7), 1.0 for special words"
   },
   "Pattern": [
     {
