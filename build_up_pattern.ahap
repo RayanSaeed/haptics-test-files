@@ -1,9 +1,9 @@
 {
     "Version": 1.0,
     "Metadata": {
-        "Project": "Custom Build-Up Haptics",
+        "Project": "Improved Build-Up Haptics",
         "Created": "2025-01-24",
-        "Description": "Haptic pattern that builds intensity and sharpness over time, ending with a BOOM."
+        "Description": "Improved build-up with faster ramp-up, noticeable start, and impactful BOOM."
     },
     "Pattern": [
         {
@@ -12,8 +12,8 @@
                 "EventType": "HapticContinuous",
                 "EventDuration": 9.070,
                 "EventParameters": [
-                    { "ParameterID": "HapticIntensity", "ParameterValue": 0.0 },
-                    { "ParameterID": "HapticSharpness", "ParameterValue": -0.8 }
+                    { "ParameterID": "HapticIntensity", "ParameterValue": 0.2 },
+                    { "ParameterID": "HapticSharpness", "ParameterValue": 0.3 }
                 ]
             }
         },
@@ -22,9 +22,9 @@
                 "ParameterID": "HapticIntensityControl",
                 "Time": 23.000,
                 "ParameterCurveControlPoints": [
-                    { "Time": 23.000, "ParameterValue": 0.0 },
+                    { "Time": 23.000, "ParameterValue": 0.2 },
                     { "Time": 27.000, "ParameterValue": 1.0 },
-                    { "Time": 32.070, "ParameterValue": 0.5 }
+                    { "Time": 32.000, "ParameterValue": 0.8 }
                 ]
             }
         },
@@ -33,8 +33,19 @@
                 "ParameterID": "HapticSharpnessControl",
                 "Time": 23.000,
                 "ParameterCurveControlPoints": [
-                    { "Time": 23.000, "ParameterValue": -0.8 },
-                    { "Time": 32.070, "ParameterValue": 0.8 }
+                    { "Time": 23.000, "ParameterValue": 0.3 },
+                    { "Time": 27.000, "ParameterValue": 1.0 },
+                    { "Time": 32.000, "ParameterValue": 0.8 }
+                ]
+            }
+        },
+        {
+            "Event": {
+                "Time": 32.000,
+                "EventType": "HapticTransient",
+                "EventParameters": [
+                    { "ParameterID": "HapticIntensity", "ParameterValue": 0.8 },
+                    { "ParameterID": "HapticSharpness", "ParameterValue": 0.9 }
                 ]
             }
         },
