@@ -2,7 +2,7 @@
     "Version": 1.0,
     "Metadata": {
         "Name": "Other Sounds Continuous",
-        "Description": "A collection of haptic continuous for other sounds. Custom v2"
+        "Description": "A collection of haptic continuous for other sounds. Custom v3"
     },
     "Pattern": [
         {
@@ -52,1431 +52,1431 @@
                     },
                     {
                         "Time": 4.638854,
-                        "ParameterValue": 0.027484415
+                        "ParameterValue": 0.028927369
                     },
                     {
                         "Time": 4.645854,
-                        "ParameterValue": 0.02782131
+                        "ParameterValue": 0.029662166
                     },
                     {
                         "Time": 4.655854,
-                        "ParameterValue": 0.033963546
+                        "ParameterValue": 0.0419131
                     },
                     {
                         "Time": 4.676854,
-                        "ParameterValue": 0.03011762
+                        "ParameterValue": 0.03445662
                     },
                     {
                         "Time": 4.6818542,
-                        "ParameterValue": 0.03445622
+                        "ParameterValue": 0.042832177
                     },
                     {
                         "Time": 4.716854,
-                        "ParameterValue": 0.030704422
+                        "ParameterValue": 0.035633203
                     },
                     {
                         "Time": 4.717854,
-                        "ParameterValue": 0.034632616
+                        "ParameterValue": 0.043159634
                     },
                     {
                         "Time": 4.730854,
-                        "ParameterValue": 0.032268364
+                        "ParameterValue": 0.038694777
                     },
                     {
                         "Time": 4.734854,
-                        "ParameterValue": 0.033839297
+                        "ParameterValue": 0.04168024
                     },
                     {
                         "Time": 4.737854,
-                        "ParameterValue": 0.046705138
+                        "ParameterValue": 0.06427789
                     },
                     {
                         "Time": 4.748854,
-                        "ParameterValue": 0.040873256
+                        "ParameterValue": 0.05432787
                     },
                     {
                         "Time": 4.763854,
-                        "ParameterValue": 0.034930155
+                        "ParameterValue": 0.04371016
                     },
                     {
                         "Time": 4.774854,
-                        "ParameterValue": 0.04124645
+                        "ParameterValue": 0.054975722
                     },
                     {
                         "Time": 4.780854,
-                        "ParameterValue": 0.04242877
+                        "ParameterValue": 0.057016823
                     },
                     {
                         "Time": 4.7928543,
-                        "ParameterValue": 0.036947347
+                        "ParameterValue": 0.047387693
                     },
                     {
                         "Time": 4.795854,
-                        "ParameterValue": 0.05918105
+                        "ParameterValue": 0.0847585
                     },
                     {
                         "Time": 4.7998543,
-                        "ParameterValue": 0.06471308
+                        "ParameterValue": 0.093635745
                     },
                     {
                         "Time": 4.808854,
-                        "ParameterValue": 0.05542568
+                        "ParameterValue": 0.07867367
                     },
                     {
                         "Time": 4.8198333,
-                        "ParameterValue": 0.046703614
+                        "ParameterValue": 0.06427533
                     },
                     {
                         "Time": 4.8308334,
-                        "ParameterValue": 0.04085878
+                        "ParameterValue": 0.054302704
                     },
                     {
                         "Time": 4.8318334,
-                        "ParameterValue": 0.050399203
+                        "ParameterValue": 0.070430666
                     },
                     {
                         "Time": 4.835833,
-                        "ParameterValue": 0.048711456
+                        "ParameterValue": 0.06763119
                     },
                     {
                         "Time": 4.8378334,
-                        "ParameterValue": 0.053773668
+                        "ParameterValue": 0.0759784
                     },
                     {
                         "Time": 4.846833,
-                        "ParameterValue": 0.04687275
+                        "ParameterValue": 0.064559184
                     },
                     {
                         "Time": 4.8508334,
-                        "ParameterValue": 0.046530508
+                        "ParameterValue": 0.06398458
                     },
                     {
                         "Time": 4.8528333,
-                        "ParameterValue": 0.06197605
+                        "ParameterValue": 0.089254975
                     },
                     {
                         "Time": 4.8578334,
-                        "ParameterValue": 0.064657725
+                        "ParameterValue": 0.09354735
                     },
                     {
                         "Time": 4.8658333,
-                        "ParameterValue": 0.05666203
+                        "ParameterValue": 0.080683
                     },
                     {
                         "Time": 4.867833,
-                        "ParameterValue": 0.058726463
+                        "ParameterValue": 0.08402475
                     },
                     {
                         "Time": 4.8778334,
-                        "ParameterValue": 0.050606947
+                        "ParameterValue": 0.07077403
                     },
                     {
                         "Time": 4.8788333,
-                        "ParameterValue": 0.053678416
+                        "ParameterValue": 0.07582261
                     },
                     {
                         "Time": 4.886833,
-                        "ParameterValue": 0.048317682
+                        "ParameterValue": 0.06697534
                     },
                     {
                         "Time": 4.888833,
-                        "ParameterValue": 0.06422679
+                        "ParameterValue": 0.092858896
                     },
                     {
                         "Time": 4.9028335,
-                        "ParameterValue": 0.052434474
+                        "ParameterValue": 0.07378397
                     },
                     {
                         "Time": 4.907833,
-                        "ParameterValue": 0.055225752
+                        "ParameterValue": 0.07834813
                     },
                     {
                         "Time": 4.9088335,
-                        "ParameterValue": 0.06733891
+                        "ParameterValue": 0.09782046
                     },
                     {
                         "Time": 4.9108334,
-                        "ParameterValue": 0.074309506
+                        "ParameterValue": 0.108858906
                     },
                     {
                         "Time": 4.913833,
-                        "ParameterValue": 0.07181514
+                        "ParameterValue": 0.10491939
                     },
                     {
                         "Time": 4.9158335,
-                        "ParameterValue": 0.0749717
+                        "ParameterValue": 0.10990301
                     },
                     {
                         "Time": 4.9298334,
-                        "ParameterValue": 0.061298605
+                        "ParameterValue": 0.08816739
                     },
                     {
                         "Time": 4.938833,
-                        "ParameterValue": 0.053735662
+                        "ParameterValue": 0.075916246
                     },
                     {
                         "Time": 4.939833,
-                        "ParameterValue": 0.059439268
+                        "ParameterValue": 0.08517498
                     },
                     {
                         "Time": 4.9438334,
-                        "ParameterValue": 0.057379533
+                        "ParameterValue": 0.08184627
                     },
                     {
                         "Time": 4.9488335,
-                        "ParameterValue": 0.06726244
+                        "ParameterValue": 0.09769882
                     },
                     {
                         "Time": 4.9498334,
-                        "ParameterValue": 0.094479404
+                        "ParameterValue": 0.14041574
                     },
                     {
                         "Time": 4.9548335,
-                        "ParameterValue": 0.091639936
+                        "ParameterValue": 0.13599807
                     },
                     {
                         "Time": 4.958833,
-                        "ParameterValue": 0.08593379
+                        "ParameterValue": 0.12709932
                     },
                     {
                         "Time": 4.9628334,
-                        "ParameterValue": 0.08371585
+                        "ParameterValue": 0.12363181
                     },
                     {
                         "Time": 4.966833,
-                        "ParameterValue": 0.085756905
+                        "ParameterValue": 0.12682298
                     },
                     {
                         "Time": 4.967833,
-                        "ParameterValue": 0.096429326
+                        "ParameterValue": 0.14344585
                     },
                     {
                         "Time": 4.9688334,
-                        "ParameterValue": 0.11670233
+                        "ParameterValue": 0.17481525
                     },
                     {
                         "Time": 4.971833,
-                        "ParameterValue": 0.1139528
+                        "ParameterValue": 0.1705726
                     },
                     {
                         "Time": 4.972833,
-                        "ParameterValue": 0.116886176
+                        "ParameterValue": 0.17509884
                     },
                     {
                         "Time": 4.9758334,
-                        "ParameterValue": 0.11419425
+                        "ParameterValue": 0.1709453
                     },
                     {
                         "Time": 4.978833,
-                        "ParameterValue": 0.10796274
+                        "ParameterValue": 0.16131823
                     },
                     {
                         "Time": 4.9878335,
-                        "ParameterValue": 0.09162521
+                        "ParameterValue": 0.13597515
                     },
                     {
                         "Time": 4.992833,
-                        "ParameterValue": 0.08446223
+                        "ParameterValue": 0.12479929
                     },
                     {
                         "Time": 5.0008335,
-                        "ParameterValue": 0.07421213
+                        "ParameterValue": 0.10870532
                     },
                     {
                         "Time": 5.0018334,
-                        "ParameterValue": 0.07291242
+                        "ParameterValue": 0.10665372
                     },
                     {
                         "Time": 5.0218334,
-                        "ParameterValue": 0.12219938
+                        "ParameterValue": 0.18328877
                     },
                     {
                         "Time": 5.071833,
-                        "ParameterValue": 0.07499405
+                        "ParameterValue": 0.10993825
                     },
                     {
                         "Time": 5.0828333,
-                        "ParameterValue": 0.124818064
+                        "ParameterValue": 0.18732166
                     },
                     {
                         "Time": 5.1338124,
-                        "ParameterValue": 0.09034655
+                        "ParameterValue": 0.13398361
                     },
                     {
                         "Time": 5.1418123,
-                        "ParameterValue": 0.13382652
+                        "ParameterValue": 0.20117919
                     },
                     {
                         "Time": 5.1838126,
-                        "ParameterValue": 0.09824305
+                        "ParameterValue": 0.14626189
                     },
                     {
                         "Time": 5.195812,
-                        "ParameterValue": 0.16161506
+                        "ParameterValue": 0.24380893
                     },
                     {
                         "Time": 5.2208123,
-                        "ParameterValue": 0.10933783
+                        "ParameterValue": 0.16344415
                     },
                     {
                         "Time": 5.2508125,
-                        "ParameterValue": 0.113464065
+                        "ParameterValue": 0.16981812
                     },
                     {
                         "Time": 5.2518125,
-                        "ParameterValue": 0.17437609
+                        "ParameterValue": 0.26334327
                     },
                     {
                         "Time": 5.2768126,
-                        "ParameterValue": 0.12112757
+                        "ParameterValue": 0.18163747
                     },
                     {
                         "Time": 5.2798123,
-                        "ParameterValue": 0.18478093
+                        "ParameterValue": 0.27925667
                     },
                     {
                         "Time": 5.307812,
-                        "ParameterValue": 0.14229244
+                        "ParameterValue": 0.2141829
                     },
                     {
                         "Time": 5.3108125,
-                        "ParameterValue": 0.20963551
+                        "ParameterValue": 0.3172305
                     },
                     {
                         "Time": 5.3348126,
-                        "ParameterValue": 0.13985519
+                        "ParameterValue": 0.21044098
                     },
                     {
                         "Time": 5.3378124,
-                        "ParameterValue": 0.17831212
+                        "ParameterValue": 0.2693645
                     },
                     {
                         "Time": 5.3598123,
-                        "ParameterValue": 0.12640713
+                        "ParameterValue": 0.18976782
                     },
                     {
                         "Time": 5.3708124,
-                        "ParameterValue": 0.2172205
+                        "ParameterValue": 0.32881027
                     },
                     {
                         "Time": 5.3838124,
-                        "ParameterValue": 0.17271356
+                        "ParameterValue": 0.26079947
                     },
                     {
                         "Time": 5.4097915,
-                        "ParameterValue": 0.14143315
+                        "ParameterValue": 0.21286376
                     },
                     {
                         "Time": 5.4227915,
-                        "ParameterValue": 0.16485994
+                        "ParameterValue": 0.24877815
                     },
                     {
                         "Time": 5.4237914,
-                        "ParameterValue": 0.2469056
+                        "ParameterValue": 0.37409985
                     },
                     {
                         "Time": 5.4497914,
-                        "ParameterValue": 0.15725088
+                        "ParameterValue": 0.23712315
                     },
                     {
                         "Time": 5.4797916,
-                        "ParameterValue": 0.15554592
+                        "ParameterValue": 0.23451042
                     },
                     {
                         "Time": 5.4827914,
-                        "ParameterValue": 0.24302262
+                        "ParameterValue": 0.36817807
                     },
                     {
                         "Time": 5.5077915,
-                        "ParameterValue": 0.15812027
+                        "ParameterValue": 0.23845527
                     },
                     {
                         "Time": 5.5097914,
-                        "ParameterValue": 0.19174655
+                        "ParameterValue": 0.28990412
                     },
                     {
                         "Time": 5.5317917,
-                        "ParameterValue": 0.13815595
+                        "ParameterValue": 0.20783132
                     },
                     {
                         "Time": 5.5387917,
-                        "ParameterValue": 0.26280963
+                        "ParameterValue": 0.39834863
                     },
                     {
                         "Time": 5.5537915,
-                        "ParameterValue": 0.20170106
+                        "ParameterValue": 0.30511317
                     },
                     {
                         "Time": 5.589792,
-                        "ParameterValue": 0.13491146
+                        "ParameterValue": 0.20284662
                     },
                     {
                         "Time": 5.595792,
-                        "ParameterValue": 0.2415496
+                        "ParameterValue": 0.36593142
                     },
                     {
                         "Time": 5.622792,
-                        "ParameterValue": 0.1536068
+                        "ParameterValue": 0.2315383
                     },
                     {
                         "Time": 5.6237917,
-                        "ParameterValue": 0.1857863
+                        "ParameterValue": 0.28079376
                     },
                     {
                         "Time": 5.6467915,
-                        "ParameterValue": 0.1300872
+                        "ParameterValue": 0.19542988
                     },
                     {
                         "Time": 5.6537914,
-                        "ParameterValue": 0.21325973
+                        "ParameterValue": 0.32327026
                     },
                     {
                         "Time": 5.679771,
-                        "ParameterValue": 0.16802569
+                        "ParameterValue": 0.2536248
                     },
                     {
                         "Time": 5.701771,
-                        "ParameterValue": 0.1395596
+                        "ParameterValue": 0.20998703
                     },
                     {
                         "Time": 5.7097707,
-                        "ParameterValue": 0.16608627
+                        "ParameterValue": 0.25065577
                     },
                     {
                         "Time": 5.7107706,
-                        "ParameterValue": 0.25181246
+                        "ParameterValue": 0.3815823
                     },
                     {
                         "Time": 5.738771,
-                        "ParameterValue": 0.1615324
+                        "ParameterValue": 0.24368231
                     },
                     {
                         "Time": 5.7417707,
-                        "ParameterValue": 0.19423096
+                        "ParameterValue": 0.2937007
                     },
                     {
                         "Time": 5.766771,
-                        "ParameterValue": 0.15299702
+                        "ParameterValue": 0.23060353
                     },
                     {
                         "Time": 5.767771,
-                        "ParameterValue": 0.2530622
+                        "ParameterValue": 0.38348785
                     },
                     {
                         "Time": 5.7957706,
-                        "ParameterValue": 0.15896106
+                        "ParameterValue": 0.23974344
                     },
                     {
                         "Time": 5.7967706,
-                        "ParameterValue": 0.20329927
+                        "ParameterValue": 0.30755427
                     },
                     {
                         "Time": 5.819771,
-                        "ParameterValue": 0.14625055
+                        "ParameterValue": 0.22025713
                     },
                     {
                         "Time": 5.825771,
-                        "ParameterValue": 0.22905406
+                        "ParameterValue": 0.34686956
                     },
                     {
                         "Time": 5.852771,
-                        "ParameterValue": 0.14829539
+                        "ParameterValue": 0.22339399
                     },
                     {
                         "Time": 5.8817706,
-                        "ParameterValue": 0.1570327
+                        "ParameterValue": 0.23678882
                     },
                     {
                         "Time": 5.8827705,
-                        "ParameterValue": 0.26591098
+                        "ParameterValue": 0.4064471
                     },
                     {
                         "Time": 5.910771,
-                        "ParameterValue": 0.16655724
+                        "ParameterValue": 0.2513768
                     },
                     {
                         "Time": 5.915771,
-                        "ParameterValue": 0.1875341
+                        "ParameterValue": 0.28346565
                     },
                     {
                         "Time": 5.937771,
-                        "ParameterValue": 0.1464503
+                        "ParameterValue": 0.22056359
                     },
                     {
                         "Time": 5.9407706,
-                        "ParameterValue": 0.2615505
+                        "ParameterValue": 0.39874148
                     },
                     {
                         "Time": 5.96775,
-                        "ParameterValue": 0.16619873
+                        "ParameterValue": 0.25082794
                     },
                     {
                         "Time": 5.97075,
-                        "ParameterValue": 0.19701701
+                        "ParameterValue": 0.2979576
                     },
                     {
                         "Time": 5.99275,
-                        "ParameterValue": 0.14433916
+                        "ParameterValue": 0.21732426
                     },
                     {
                         "Time": 6.00075,
-                        "ParameterValue": 0.22135141
+                        "ParameterValue": 0.34032986
                     },
                     {
                         "Time": 6.00175,
-                        "ParameterValue": 0.271772
+                        "ParameterValue": 0.4167738
                     },
                     {
                         "Time": 6.00975,
-                        "ParameterValue": 0.23270664
+                        "ParameterValue": 0.3524423
                     },
                     {
                         "Time": 6.04675,
-                        "ParameterValue": 0.14512374
+                        "ParameterValue": 0.21852821
                     },
                     {
                         "Time": 6.05675,
-                        "ParameterValue": 0.23746727
+                        "ParameterValue": 0.35970464
                     },
                     {
                         "Time": 6.08375,
-                        "ParameterValue": 0.15500772
+                        "ParameterValue": 0.23368557
                     },
                     {
                         "Time": 6.08575,
-                        "ParameterValue": 0.20225383
+                        "ParameterValue": 0.3059575
                     },
                     {
                         "Time": 6.11175,
-                        "ParameterValue": 0.1558963
+                        "ParameterValue": 0.23504741
                     },
                     {
                         "Time": 6.11475,
-                        "ParameterValue": 0.22576658
+                        "ParameterValue": 0.34185326
                     },
                     {
                         "Time": 6.14175,
-                        "ParameterValue": 0.15303999
+                        "ParameterValue": 0.23066941
                     },
                     {
                         "Time": 6.14275,
-                        "ParameterValue": 0.21919376
+                        "ParameterValue": 0.33182222
                     },
                     {
                         "Time": 6.16875,
-                        "ParameterValue": 0.14912131
+                        "ParameterValue": 0.22466077
                     },
                     {
                         "Time": 6.17575,
-                        "ParameterValue": 0.24795419
+                        "ParameterValue": 0.37569892
                     },
                     {
                         "Time": 6.19975,
-                        "ParameterValue": 0.16733986
+                        "ParameterValue": 0.25257495
                     },
                     {
                         "Time": 6.22075,
-                        "ParameterValue": 0.15292162
+                        "ParameterValue": 0.23048791
                     },
                     {
                         "Time": 6.23075,
-                        "ParameterValue": 0.2635927
+                        "ParameterValue": 0.40235287
                     },
                     {
                         "Time": 6.259729,
-                        "ParameterValue": 0.16437551
+                        "ParameterValue": 0.24803638
                     },
                     {
                         "Time": 6.2877293,
-                        "ParameterValue": 0.16856608
+                        "ParameterValue": 0.25445202
                     },
                     {
-                        "Time": 6.288729,
-                        "ParameterValue": 0.25246957
+                        "Time": 6.315724,
+                        "ParameterValue": 0.37176096
                     },
                     {
                         "Time": 6.315729,
-                        "ParameterValue": 0.18453927
+                        "ParameterValue": 0.2788872
                     },
                     {
                         "Time": 6.316729,
-                        "ParameterValue": 0.24185224
+                        "ParameterValue": 0.36639303
                     },
                     {
                         "Time": 6.342729,
-                        "ParameterValue": 0.16517943
+                        "ParameterValue": 0.24926735
                     },
                     {
                         "Time": 6.349729,
-                        "ParameterValue": 0.25230476
+                        "ParameterValue": 0.38233295
                     },
                     {
                         "Time": 6.373729,
-                        "ParameterValue": 0.1723255
+                        "ParameterValue": 0.26020566
                     },
                     {
                         "Time": 6.400729,
-                        "ParameterValue": 0.17198716
+                        "ParameterValue": 0.2596879
                     },
                     {
                         "Time": 6.407729,
-                        "ParameterValue": 0.22752313
+                        "ParameterValue": 0.34453362
                     },
                     {
                         "Time": 6.454729,
-                        "ParameterValue": 0.16427468
+                        "ParameterValue": 0.24788198
                     },
                     {
                         "Time": 6.461729,
-                        "ParameterValue": 0.25666308
+                        "ParameterValue": 0.39008006
                     },
                     {
                         "Time": 6.479729,
-                        "ParameterValue": 0.19754301
+                        "ParameterValue": 0.29876125
                     },
                     {
                         "Time": 6.488729,
-                        "ParameterValue": 0.28650364
+                        "ParameterValue": 0.4425906
                     },
                     {
                         "Time": 6.5177293,
-                        "ParameterValue": 0.19199371
+                        "ParameterValue": 0.29028186
                     },
                     {
                         "Time": 6.518729,
-                        "ParameterValue": 0.27856427
+                        "ParameterValue": 0.4287006
                     },
                     {
                         "Time": 6.545708,
-                        "ParameterValue": 0.18234503
+                        "ParameterValue": 0.2755322
                     },
                     {
                         "Time": 6.547708,
-                        "ParameterValue": 0.25302172
+                        "ParameterValue": 0.38360897
                     },
                     {
                         "Time": 6.565708,
-                        "ParameterValue": 0.19399431
+                        "ParameterValue": 0.29333907
                     },
                     {
                         "Time": 6.5767083,
-                        "ParameterValue": 0.26690733
+                        "ParameterValue": 0.40820503
                     },
                     {
                         "Time": 6.593708,
-                        "ParameterValue": 0.21635386
+                        "ParameterValue": 0.32748738
                     },
                     {
                         "Time": 6.604708,
-                        "ParameterValue": 0.24795404
+                        "ParameterValue": 0.37569872
                     },
                     {
                         "Time": 6.632708,
-                        "ParameterValue": 0.21386601
+                        "ParameterValue": 0.3236895
                     },
                     {
                         "Time": 6.638708,
-                        "ParameterValue": 0.26707363
+                        "ParameterValue": 0.40849835
                     },
                     {
                         "Time": 6.6607084,
-                        "ParameterValue": 0.19365002
+                        "ParameterValue": 0.29281297
                     },
                     {
                         "Time": 6.671708,
-                        "ParameterValue": 0.23535854
+                        "ParameterValue": 0.3564879
                     },
                     {
                         "Time": 6.717708,
-                        "ParameterValue": 0.25352386
+                        "ParameterValue": 0.3845023
                     },
                     {
                         "Time": 6.735708,
-                        "ParameterValue": 0.19757937
+                        "ParameterValue": 0.29881677
                     },
                     {
                         "Time": 6.7487082,
-                        "ParameterValue": 0.21152793
+                        "ParameterValue": 0.32011995
                     },
                     {
                         "Time": 6.7527084,
-                        "ParameterValue": 0.29196855
+                        "ParameterValue": 0.45212212
                     },
                     {
                         "Time": 6.7717085,
-                        "ParameterValue": 0.23869832
+                        "ParameterValue": 0.36158246
                     },
                     {
                         "Time": 6.790708,
-                        "ParameterValue": 0.22355981
+                        "ParameterValue": 0.3384857
                     },
                     {
                         "Time": 6.814708,
-                        "ParameterValue": 0.26790893
+                        "ParameterValue": 0.40997115
                     },
                     {
                         "Time": 6.8356876,
-                        "ParameterValue": 0.20920806
+                        "ParameterValue": 0.3165778
                     },
                     {
                         "Time": 6.8366876,
-                        "ParameterValue": 0.26070583
+                        "ParameterValue": 0.39724648
                     },
                     {
                         "Time": 6.8606873,
-                        "ParameterValue": 0.22502857
+                        "ParameterValue": 0.34072706
                     },
                     {
                         "Time": 6.8706875,
-                        "ParameterValue": 0.2719978
+                        "ParameterValue": 0.42805132
                     },
                     {
                         "Time": 6.9046874,
-                        "ParameterValue": 0.22773248
+                        "ParameterValue": 0.34485304
                     },
                     {
                         "Time": 6.9096875,
-                        "ParameterValue": 0.3058434
+                        "ParameterValue": 0.47622463
                     },
                     {
                         "Time": 6.920687,
-                        "ParameterValue": 0.30889478
+                        "ParameterValue": 0.48150814
                     },
                     {
                         "Time": 6.9496875,
-                        "ParameterValue": 0.23234746
+                        "ParameterValue": 0.35189432
                     },
                     {
                         "Time": 6.9506874,
-                        "ParameterValue": 0.2844814
+                        "ParameterValue": 0.43905762
                     },
                     {
                         "Time": 6.9806876,
-                        "ParameterValue": 0.26843122
+                        "ParameterValue": 0.41089174
                     },
                     {
                         "Time": 6.9826875,
-                        "ParameterValue": 0.3478574
+                        "ParameterValue": 0.5485241
                     },
                     {
                         "Time": 7.0006876,
-                        "ParameterValue": 0.27911994
+                        "ParameterValue": 0.42967445
                     },
                     {
                         "Time": 7.0016875,
-                        "ParameterValue": 0.27804422
+                        "ParameterValue": 0.42778888
                     },
                     {
                         "Time": 7.0556874,
-                        "ParameterValue": 0.28163022
+                        "ParameterValue": 0.43407077
                     },
                     {
                         "Time": 7.0656877,
-                        "ParameterValue": 0.2899766
+                        "ParameterValue": 0.4587849
                     },
                     {
                         "Time": 7.0776873,
-                        "ParameterValue": 0.30746746
+                        "ParameterValue": 0.47903743
                     },
                     {
                         "Time": 7.1096873,
-                        "ParameterValue": 0.3090492
+                        "ParameterValue": 0.48177534
                     },
                     {
                         "Time": 7.1186666,
-                        "ParameterValue": 0.35593385
+                        "ParameterValue": 0.5623275
                     },
                     {
                         "Time": 7.136667,
-                        "ParameterValue": 0.27902666
+                        "ParameterValue": 0.429511
                     },
                     {
                         "Time": 7.1606665,
-                        "ParameterValue": 0.31085843
+                        "ParameterValue": 0.49429676
                     },
                     {
                         "Time": 7.2096667,
-                        "ParameterValue": 0.26779827
+                        "ParameterValue": 0.40977612
                     },
                     {
                         "Time": 7.2166667,
-                        "ParameterValue": 0.34017724
+                        "ParameterValue": 0.5353727
                     },
                     {
                         "Time": 7.2406664,
-                        "ParameterValue": 0.29852518
+                        "ParameterValue": 0.46352842
                     },
                     {
                         "Time": 7.2606664,
-                        "ParameterValue": 0.33871728
+                        "ParameterValue": 0.54142994
                     },
                     {
                         "Time": 7.287667,
-                        "ParameterValue": 0.3108668
+                        "ParameterValue": 0.4849196
                     },
                     {
                         "Time": 7.2896667,
-                        "ParameterValue": 0.32264316
+                        "ParameterValue": 0.51426524
                     },
                     {
                         "Time": 7.3096666,
-                        "ParameterValue": 0.32845297
+                        "ParameterValue": 0.51524436
                     },
                     {
                         "Time": 7.3166666,
-                        "ParameterValue": 0.3727369
+                        "ParameterValue": 0.5909666
                     },
                     {
                         "Time": 7.3426666,
-                        "ParameterValue": 0.30416566
+                        "ParameterValue": 0.47331706
                     },
                     {
                         "Time": 7.3516665,
-                        "ParameterValue": 0.38305196
+                        "ParameterValue": 0.60849994
                     },
                     {
                         "Time": 7.353667,
-                        "ParameterValue": 0.41538402
+                        "ParameterValue": 0.67015487
                     },
                     {
                         "Time": 7.3706665,
-                        "ParameterValue": 0.40572846
+                        "ParameterValue": 0.64693415
                     },
                     {
                         "Time": 7.3766665,
-                        "ParameterValue": 0.38593686
+                        "ParameterValue": 0.6208486
                     },
                     {
                         "Time": 7.399667,
-                        "ParameterValue": 0.356739
+                        "ParameterValue": 0.5637022
                     },
                     {
                         "Time": 7.424646,
-                        "ParameterValue": 0.31903762
+                        "ParameterValue": 0.49903023
                     },
                     {
                         "Time": 7.431646,
-                        "ParameterValue": 0.3392766
+                        "ParameterValue": 0.54237384
                     },
                     {
                         "Time": 7.4426455,
-                        "ParameterValue": 0.36883318
+                        "ParameterValue": 0.58432204
                     },
                     {
                         "Time": 7.4466457,
-                        "ParameterValue": 0.49737304
+                        "ParameterValue": 0.8011179
                     },
                     {
                         "Time": 7.4746456,
-                        "ParameterValue": 0.4000527
+                        "ParameterValue": 0.63732755
                     },
                     {
                         "Time": 7.4816456,
-                        "ParameterValue": 0.38488933
+                        "ParameterValue": 0.61909187
                     },
                     {
                         "Time": 7.517646,
-                        "ParameterValue": 0.35589513
+                        "ParameterValue": 0.56226146
                     },
                     {
                         "Time": 7.5336456,
-                        "ParameterValue": 0.36731595
+                        "ParameterValue": 0.5817382
                     },
                     {
                         "Time": 7.5476456,
-                        "ParameterValue": 0.4360281
+                        "ParameterValue": 0.7046435
                     },
                     {
                         "Time": 7.562646,
-                        "ParameterValue": 0.45398083
+                        "ParameterValue": 0.7283054
                     },
                     {
                         "Time": 7.582646,
-                        "ParameterValue": 0.47170958
+                        "ParameterValue": 0.75808984
                     },
                     {
                         "Time": 7.5936456,
-                        "ParameterValue": 0.39779696
+                        "ParameterValue": 0.6335072
                     },
                     {
                         "Time": 7.6116457,
-                        "ParameterValue": 0.40361887
+                        "ParameterValue": 0.6504722
                     },
                     {
                         "Time": 7.628646,
-                        "ParameterValue": 0.38935968
+                        "ParameterValue": 0.6192054
                     },
                     {
                         "Time": 7.640646,
-                        "ParameterValue": 0.39212272
+                        "ParameterValue": 0.6238912
                     },
                     {
                         "Time": 7.6506457,
-                        "ParameterValue": 0.47766337
+                        "ParameterValue": 0.7740442
                     },
                     {
                         "Time": 7.6726456,
-                        "ParameterValue": 0.44146538
+                        "ParameterValue": 0.707246
                     },
                     {
                         "Time": 7.682646,
-                        "ParameterValue": 0.4706546
+                        "ParameterValue": 0.75631887
                     },
                     {
                         "Time": 7.6976247,
-                        "ParameterValue": 0.38065657
+                        "ParameterValue": 0.6044313
                     },
                     {
                         "Time": 7.713625,
-                        "ParameterValue": 0.42623523
+                        "ParameterValue": 0.68157715
                     },
                     {
                         "Time": 7.731625,
-                        "ParameterValue": 0.36375707
+                        "ParameterValue": 0.57567406
                     },
                     {
                         "Time": 7.734625,
-                        "ParameterValue": 0.54578674
+                        "ParameterValue": 0.8820589
                     },
                     {
                         "Time": 7.7436247,
-                        "ParameterValue": 0.58856493
+                        "ParameterValue": 0.95337874
                     },
                     {
                         "Time": 7.760625,
-                        "ParameterValue": 0.46352136
+                        "ParameterValue": 0.7443402
                     },
                     {
                         "Time": 7.792625,
-                        "ParameterValue": 0.46791625
+                        "ParameterValue": 0.7517214
                     },
                     {
                         "Time": 7.823625,
-                        "ParameterValue": 0.37693867
+                        "ParameterValue": 0.59811276
                     },
                     {
                         "Time": 7.839625,
-                        "ParameterValue": 0.44767222
+                        "ParameterValue": 0.7240723
                     },
                     {
                         "Time": 7.8486247,
-                        "ParameterValue": 0.49357718
+                        "ParameterValue": 0.7947596
                     },
                     {
                         "Time": 7.850625,
-                        "ParameterValue": 0.6165775
+                        "ParameterValue": 1.0
                     },
                     {
                         "Time": 7.865625,
-                        "ParameterValue": 0.499823
+                        "ParameterValue": 0.80522066
                     },
                     {
                         "Time": 7.9006248,
-                        "ParameterValue": 0.32819015
+                        "ParameterValue": 0.5147924
                     },
                     {
                         "Time": 7.926625,
-                        "ParameterValue": 0.39554757
+                        "ParameterValue": 0.63695663
                     },
                     {
                         "Time": 7.941625,
-                        "ParameterValue": 0.50820076
+                        "ParameterValue": 0.8192445
                     },
                     {
                         "Time": 7.955625,
-                        "ParameterValue": 0.42711505
+                        "ParameterValue": 0.6830613
                     },
                     {
                         "Time": 7.956625,
-                        "ParameterValue": 0.40070686
+                        "ParameterValue": 0.6455972
                     },
                     {
                         "Time": 7.972625,
-                        "ParameterValue": 0.4266525
+                        "ParameterValue": 0.682281
                     },
                     {
                         "Time": 7.974625,
-                        "ParameterValue": 0.4825015
+                        "ParameterValue": 0.77619565
                     },
                     {
                         "Time": 8.000604,
-                        "ParameterValue": 0.3508592
+                        "ParameterValue": 0.55365753
                     },
                     {
                         "Time": 8.001604,
-                        "ParameterValue": 0.3466311
+                        "ParameterValue": 0.5464259
                     },
                     {
                         "Time": 8.020625,
-                        "ParameterValue": 0.38387233
+                        "ParameterValue": 0.6098929
                     },
                     {
                         "Time": 8.039625,
-                        "ParameterValue": 0.464058
+                        "ParameterValue": 0.75138634
                     },
                     {
                         "Time": 8.073646,
-                        "ParameterValue": 0.3772837
+                        "ParameterValue": 0.59869933
                     },
                     {
                         "Time": 8.075645,
-                        "ParameterValue": 0.3934122
+                        "ParameterValue": 0.63337904
                     },
                     {
                         "Time": 8.089645,
-                        "ParameterValue": 0.40698838
+                        "ParameterValue": 0.64906543
                     },
                     {
                         "Time": 8.127666,
-                        "ParameterValue": 0.41706094
+                        "ParameterValue": 0.6660908
                     },
                     {
                         "Time": 8.129666,
-                        "ParameterValue": 0.48262462
+                        "ParameterValue": 0.7823021
                     },
                     {
                         "Time": 8.163688,
-                        "ParameterValue": 0.49733648
+                        "ParameterValue": 0.8010566
                     },
                     {
                         "Time": 8.164687,
-                        "ParameterValue": 0.44311434
+                        "ParameterValue": 0.7164691
                     },
                     {
                         "Time": 8.200687,
-                        "ParameterValue": 0.37619346
+                        "ParameterValue": 0.59684575
                     },
                     {
                         "Time": 8.214708,
-                        "ParameterValue": 0.4233727
+                        "ParameterValue": 0.67674714
                     },
                     {
                         "Time": 8.217709,
-                        "ParameterValue": 0.47343382
+                        "ParameterValue": 0.7670024
                     },
                     {
                         "Time": 8.232708,
-                        "ParameterValue": 0.59750473
+                        "ParameterValue": 0.96826357
                     },
                     {
                         "Time": 8.250709,
-                        "ParameterValue": 0.45843175
+                        "ParameterValue": 0.735788
                     },
                     {
                         "Time": 8.277729,
-                        "ParameterValue": 0.4167028
+                        "ParameterValue": 0.66548586
                     },
                     {
                         "Time": 8.31775,
-                        "ParameterValue": 0.45246932
+                        "ParameterValue": 0.72576356
                     },
                     {
                         "Time": 8.33875,
-                        "ParameterValue": 0.4212504
+                        "ParameterValue": 0.673165
                     },
                     {
                         "Time": 8.34175,
-                        "ParameterValue": 0.4291273
+                        "ParameterValue": 0.69312114
                     },
                     {
                         "Time": 8.36275,
-                        "ParameterValue": 0.43099836
+                        "ParameterValue": 0.68961006
                     },
                     {
                         "Time": 8.36475,
-                        "ParameterValue": 0.41806442
+                        "ParameterValue": 0.67463607
                     },
                     {
                         "Time": 8.41077,
-                        "ParameterValue": 0.4349065
+                        "ParameterValue": 0.69619757
                     },
                     {
                         "Time": 8.415771,
-                        "ParameterValue": 0.446174
+                        "ParameterValue": 0.7215733
                     },
                     {
                         "Time": 8.436791,
-                        "ParameterValue": 0.45536882
+                        "ParameterValue": 0.73063916
                     },
                     {
                         "Time": 8.446792,
-                        "ParameterValue": 0.4074238
+                        "ParameterValue": 0.65684
                     },
                     {
                         "Time": 8.461792,
-                        "ParameterValue": 0.41562492
+                        "ParameterValue": 0.663665
                     },
                     {
                         "Time": 8.492812,
-                        "ParameterValue": 0.3869351
+                        "ParameterValue": 0.6150918
                     },
                     {
                         "Time": 8.505813,
-                        "ParameterValue": 0.47510836
+                        "ParameterValue": 0.76379395
                     },
                     {
                         "Time": 8.506812,
-                        "ParameterValue": 0.4629686
+                        "ParameterValue": 0.74957126
                     },
                     {
                         "Time": 8.545834,
-                        "ParameterValue": 0.3710095
+                        "ParameterValue": 0.588027
                     },
                     {
                         "Time": 8.558833,
-                        "ParameterValue": 0.35834402
+                        "ParameterValue": 0.57450205
                     },
                     {
                         "Time": 8.573854,
-                        "ParameterValue": 0.3831369
+                        "ParameterValue": 0.6086442
                     },
                     {
                         "Time": 8.577854,
-                        "ParameterValue": 0.49699587
+                        "ParameterValue": 0.8004862
                     },
                     {
                         "Time": 8.599854,
-                        "ParameterValue": 0.43285942
+                        "ParameterValue": 0.6927474
                     },
                     {
                         "Time": 8.622854,
-                        "ParameterValue": 0.44719163
+                        "ParameterValue": 0.7232706
                     },
                     {
                         "Time": 8.662875,
-                        "ParameterValue": 0.37315828
+                        "ParameterValue": 0.5916835
                     },
                     {
                         "Time": 8.663875,
-                        "ParameterValue": 0.3547824
+                        "ParameterValue": 0.5685077
                     },
                     {
                         "Time": 8.6918955,
-                        "ParameterValue": 0.38261518
+                        "ParameterValue": 0.60775816
                     },
                     {
                         "Time": 8.703896,
-                        "ParameterValue": 0.46716622
+                        "ParameterValue": 0.75046194
                     },
                     {
                         "Time": 8.707895,
-                        "ParameterValue": 0.47861895
+                        "ParameterValue": 0.77563494
                     },
                     {
                         "Time": 8.728916,
-                        "ParameterValue": 0.45358363
+                        "ParameterValue": 0.72763747
                     },
                     {
                         "Time": 8.730917,
-                        "ParameterValue": 0.42757836
+                        "ParameterValue": 0.69053406
                     },
                     {
                         "Time": 8.745916,
-                        "ParameterValue": 0.43580344
+                        "ParameterValue": 0.6977089
                     },
                     {
                         "Time": 8.756917,
-                        "ParameterValue": 0.47000298
+                        "ParameterValue": 0.755225
                     },
                     {
                         "Time": 8.777917,
-                        "ParameterValue": 0.36619204
+                        "ParameterValue": 0.5798236
                     },
                     {
                         "Time": 8.778937,
-                        "ParameterValue": 0.37550926
+                        "ParameterValue": 0.6033521
                     },
                     {
                         "Time": 8.793938,
-                        "ParameterValue": 0.3831976
+                        "ParameterValue": 0.6087472
                     },
                     {
                         "Time": 8.8099375,
-                        "ParameterValue": 0.49239928
+                        "ParameterValue": 0.7985651
                     },
                     {
                         "Time": 8.841958,
-                        "ParameterValue": 0.38582557
+                        "ParameterValue": 0.6132088
                     },
                     {
                         "Time": 8.843958,
-                        "ParameterValue": 0.37959057
+                        "ParameterValue": 0.61020267
                     },
                     {
                         "Time": 8.859959,
-                        "ParameterValue": 0.3803917
+                        "ParameterValue": 0.60398126
                     },
                     {
                         "Time": 8.888979,
-                        "ParameterValue": 0.4469363
+                        "ParameterValue": 0.71645534
                     },
                     {
                         "Time": 8.891979,
-                        "ParameterValue": 0.47580343
+                        "ParameterValue": 0.7709478
                     },
                     {
                         "Time": 8.902979,
-                        "ParameterValue": 0.51457506
+                        "ParameterValue": 0.8299089
                     },
                     {
                         "Time": 8.911979,
-                        "ParameterValue": 0.58088756
+                        "ParameterValue": 0.94059074
                     },
                     {
                         "Time": 8.934999,
-                        "ParameterValue": 0.5593053
+                        "ParameterValue": 0.90461504
                     },
                     {
                         "Time": 8.966,
-                        "ParameterValue": 0.41529098
+                        "ParameterValue": 0.66310084
                     },
                     {
                         "Time": 8.969,
-                        "ParameterValue": 0.43722016
+                        "ParameterValue": 0.7066332
                     },
                     {
                         "Time": 8.990021,
-                        "ParameterValue": 0.42484087
+                        "ParameterValue": 0.6792246
                     },
                     {
                         "Time": 9.000021,
-                        "ParameterValue": 0.43195364
+                        "ParameterValue": 0.69784105
                     },
                     {
                         "Time": 9.00102,
-                        "ParameterValue": 0.5327269
+                        "ParameterValue": 0.86025083
                     },
                     {
                         "Time": 9.023021,
-                        "ParameterValue": 0.5156993
+                        "ParameterValue": 0.83178926
                     },
                     {
                         "Time": 9.033021,
-                        "ParameterValue": 0.45899895
+                        "ParameterValue": 0.7367413
                     },
                     {
                         "Time": 9.03402,
-                        "ParameterValue": 0.55339354
+                        "ParameterValue": 0.8947533
                     },
                     {
                         "Time": 9.038041,
-                        "ParameterValue": 0.575194
+                        "ParameterValue": 0.93110406
                     },
                     {
                         "Time": 9.047042,
-                        "ParameterValue": 0.49211797
+                        "ParameterValue": 0.79231477
                     },
                     {
                         "Time": 9.052042,
-                        "ParameterValue": 0.5233493
+                        "ParameterValue": 0.84458023
                     },
                     {
                         "Time": 9.061042,
-                        "ParameterValue": 0.45512834
+                        "ParameterValue": 0.73023486
                     },
                     {
                         "Time": 9.063042,
-                        "ParameterValue": 0.4079495
+                        "ParameterValue": 0.65771973
                     },
                     {
                         "Time": 9.083041,
-                        "ParameterValue": 0.37650332
+                        "ParameterValue": 0.59737265
                     },
                     {
                         "Time": 9.092062,
-                        "ParameterValue": 0.42425692
+                        "ParameterValue": 0.6782393
                     },
                     {
                         "Time": 9.0980625,
-                        "ParameterValue": 0.4000382
+                        "ParameterValue": 0.637303
                     },
                     {
                         "Time": 9.101063,
-                        "ParameterValue": 0.40709877
+                        "ParameterValue": 0.65629625
                     },
                     {
                         "Time": 9.109062,
-                        "ParameterValue": 0.47465304
+                        "ParameterValue": 0.76302993
                     },
                     {
                         "Time": 9.113063,
-                        "ParameterValue": 0.565259
+                        "ParameterValue": 0.91454333
                     },
                     {
                         "Time": 9.125062,
-                        "ParameterValue": 0.4669982
+                        "ParameterValue": 0.75017977
                     },
                     {
                         "Time": 9.135062,
-                        "ParameterValue": 0.41258928
+                        "ParameterValue": 0.6585355
                     },
                     {
                         "Time": 9.136063,
-                        "ParameterValue": 0.37834594
+                        "ParameterValue": 0.6081138
                     },
                     {
                         "Time": 9.150084,
-                        "ParameterValue": 0.3935293
+                        "ParameterValue": 0.6262757
                     },
                     {
                         "Time": 9.153083,
-                        "ParameterValue": 0.44461048
+                        "ParameterValue": 0.7125409
                     },
                     {
                         "Time": 9.169084,
-                        "ParameterValue": 0.35544968
+                        "ParameterValue": 0.5615008
                     },
                     {
                         "Time": 9.178083,
-                        "ParameterValue": 0.35345238
+                        "ParameterValue": 0.55808926
                     },
                     {
                         "Time": 9.182083,
-                        "ParameterValue": 0.42053166
+                        "ParameterValue": 0.6787601
                     },
                     {
                         "Time": 9.186083,
-                        "ParameterValue": 0.504756
+                        "ParameterValue": 0.8134793
                     },
                     {
                         "Time": 9.187083,
-                        "ParameterValue": 0.59390056
+                        "ParameterValue": 0.96226335
                     },
                     {
                         "Time": 9.208104,
-                        "ParameterValue": 0.44413248
+                        "ParameterValue": 0.7117363
                     },
                     {
                         "Time": 9.209105,
-                        "ParameterValue": 0.49714142
+                        "ParameterValue": 0.80073
                     },
                     {
                         "Time": 9.219104,
-                        "ParameterValue": 0.43936142
+                        "ParameterValue": 0.7037028
                     },
                     {
                         "Time": 9.224104,
-                        "ParameterValue": 0.46053872
+                        "ParameterValue": 0.7393289
                     },
                     {
                         "Time": 9.226104,
-                        "ParameterValue": 0.46637464
+                        "ParameterValue": 0.7552456
                     },
                     {
                         "Time": 9.239104,
-                        "ParameterValue": 0.47909117
+                        "ParameterValue": 0.7704759
                     },
                     {
                         "Time": 9.241104,
-                        "ParameterValue": 0.5055932
+                        "ParameterValue": 0.81488055
                     },
                     {
                         "Time": 9.253125,
-                        "ParameterValue": 0.41446772
+                        "ParameterValue": 0.66170985
                     },
                     {
                         "Time": 9.254125,
-                        "ParameterValue": 0.44378433
+                        "ParameterValue": 0.7111502
                     },
                     {
                         "Time": 9.269125,
-                        "ParameterValue": 0.35988745
+                        "ParameterValue": 0.5690753
                     },
                     {
                         "Time": 9.272125,
-                        "ParameterValue": 0.41314697
+                        "ParameterValue": 0.65947807
                     },
                     {
                         "Time": 9.281125,
-                        "ParameterValue": 0.41706467
+                        "ParameterValue": 0.6660971
                     },
                     {
                         "Time": 9.2821245,
-                        "ParameterValue": 0.38056904
+                        "ParameterValue": 0.61184454
                     },
                     {
                         "Time": 9.291125,
-                        "ParameterValue": 0.45027572
+                        "ParameterValue": 0.722074
                     },
                     {
                         "Time": 9.292125,
-                        "ParameterValue": 0.50070584
+                        "ParameterValue": 0.806699
                     },
                     {
                         "Time": 9.304146,
-                        "ParameterValue": 0.4731877
+                        "ParameterValue": 0.7605708
                     },
                     {
                         "Time": 9.3151455,
-                        "ParameterValue": 0.442565
+                        "ParameterValue": 0.7090975
                     },
                     {
                         "Time": 9.319146,
-                        "ParameterValue": 0.40008315
+                        "ParameterValue": 0.6445529
                     },
                     {
                         "Time": 9.338146,
-                        "ParameterValue": 0.3806464
+                        "ParameterValue": 0.604414
                     },
                     {
                         "Time": 9.345146,
-                        "ParameterValue": 0.40180987
+                        "ParameterValue": 0.6403026
                     },
                     {
                         "Time": 9.363167,
-                        "ParameterValue": 0.34567672
+                        "ParameterValue": 0.54479253
                     },
                     {
                         "Time": 9.368167,
-                        "ParameterValue": 0.4114654
+                        "ParameterValue": 0.6566359
                     },
                     {
                         "Time": 9.3741665,
-                        "ParameterValue": 0.38662675
+                        "ParameterValue": 0.6145685
                     },
                     {
                         "Time": 9.376166,
-                        "ParameterValue": 0.41149673
+                        "ParameterValue": 0.6636539
                     },
                     {
                         "Time": 9.386167,
-                        "ParameterValue": 0.48259595
+                        "ParameterValue": 0.77635396
                     },
                     {
                         "Time": 9.392166,
-                        "ParameterValue": 0.5613342
+                        "ParameterValue": 0.90799874
                     },
                     {
                         "Time": 9.393167,
-                        "ParameterValue": 0.6581659
+                        "ParameterValue": 1.0
                     },
                     {
                         "Time": 9.411187,
-                        "ParameterValue": 0.5716623
+                        "ParameterValue": 0.92521805
                     },
                     {
                         "Time": 9.428187,
-                        "ParameterValue": 0.4357425
+                        "ParameterValue": 0.69760627
                     },
                     {
                         "Time": 9.439187,
-                        "ParameterValue": 0.35769692
+                        "ParameterValue": 0.56533736
                     },
                     {
                         "Time": 9.458208,
-                        "ParameterValue": 0.2553758
+                        "ParameterValue": 0.38779423
                     },
                     {
                         "Time": 9.506229,
-                        "ParameterValue": 0.1522749
+                        "ParameterValue": 0.22949648
                     },
                     {
                         "Time": 9.55425,
-                        "ParameterValue": 0.058978647
+                        "ParameterValue": 0.08443189
                     },
                     {
                         "Time": 9.630271,
-                        "ParameterValue": 0.02787795
+                        "ParameterValue": 0.029784787
                     },
                     {
                         "Time": 10.000417,
@@ -1496,491 +1496,491 @@
                     },
                     {
                         "Time": 12.000229,
-                        "ParameterValue": 0.02633029
+                        "ParameterValue": 0.026564633
                     },
                     {
                         "Time": 12.001229,
-                        "ParameterValue": 0.02633029
+                        "ParameterValue": 0.026564633
                     },
                     {
                         "Time": 12.802563,
-                        "ParameterValue": 0.02633029
+                        "ParameterValue": 0.026564633
                     },
                     {
                         "Time": 12.838562,
-                        "ParameterValue": 0.029314501
+                        "ParameterValue": 0.032061987
                     },
                     {
                         "Time": 12.840563,
-                        "ParameterValue": 0.100738324
+                        "ParameterValue": 0.13804485
                     },
                     {
                         "Time": 12.842563,
-                        "ParameterValue": 0.09986328
+                        "ParameterValue": 0.13680531
                     },
                     {
                         "Time": 12.843562,
-                        "ParameterValue": 0.1233242
+                        "ParameterValue": 0.16993646
                     },
                     {
                         "Time": 12.844563,
-                        "ParameterValue": 0.24799868
+                        "ParameterValue": 0.39252272
                     },
                     {
                         "Time": 12.845562,
-                        "ParameterValue": 0.24799868
+                        "ParameterValue": 0.39252272
                     },
                     {
                         "Time": 12.846562,
-                        "ParameterValue": 0.3274197
+                        "ParameterValue": 0.5269373
                     },
                     {
                         "Time": 12.848562,
-                        "ParameterValue": 0.3245256
+                        "ParameterValue": 0.52207315
                     },
                     {
                         "Time": 12.850583,
-                        "ParameterValue": 0.31555086
+                        "ParameterValue": 0.5069766
                     },
                     {
                         "Time": 12.8515835,
-                        "ParameterValue": 0.3360389
+                        "ParameterValue": 0.54141253
                     },
                     {
                         "Time": 12.852583,
-                        "ParameterValue": 0.3360389
+                        "ParameterValue": 0.54141253
                     },
                     {
                         "Time": 12.853583,
-                        "ParameterValue": 0.41390368
+                        "ParameterValue": 0.67487425
                     },
                     {
                         "Time": 12.854583,
-                        "ParameterValue": 0.5173796
+                        "ParameterValue": 0.84359276
                     },
                     {
                         "Time": 12.857583,
-                        "ParameterValue": 0.49372917
+                        "ParameterValue": 0.80435044
                     },
                     {
                         "Time": 12.860583,
-                        "ParameterValue": 0.46494573
+                        "ParameterValue": 0.7565424
                     },
                     {
                         "Time": 12.862583,
-                        "ParameterValue": 0.44794825
+                        "ParameterValue": 0.7282812
                     },
                     {
                         "Time": 12.867583,
-                        "ParameterValue": 0.4077822
+                        "ParameterValue": 0.66139406
                     },
                     {
                         "Time": 12.868583,
-                        "ParameterValue": 0.40290305
+                        "ParameterValue": 0.65325737
                     },
                     {
                         "Time": 12.871583,
-                        "ParameterValue": 0.37993068
+                        "ParameterValue": 0.61490786
                     },
                     {
                         "Time": 12.8775835,
-                        "ParameterValue": 0.3378946
+                        "ParameterValue": 0.544527
                     },
                     {
                         "Time": 12.880583,
-                        "ParameterValue": 0.31830713
+                        "ParameterValue": 0.5116151
                     },
                     {
                         "Time": 12.884583,
-                        "ParameterValue": 0.29556322
+                        "ParameterValue": 0.4732786
                     },
                     {
                         "Time": 12.889584,
-                        "ParameterValue": 0.27100658
+                        "ParameterValue": 0.4317026
                     },
                     {
                         "Time": 12.894583,
-                        "ParameterValue": 0.24871923
+                        "ParameterValue": 0.3937537
                     },
                     {
                         "Time": 12.898583,
-                        "ParameterValue": 0.23334461
+                        "ParameterValue": 0.3674217
                     },
                     {
                         "Time": 12.900583,
-                        "ParameterValue": 0.23014832
+                        "ParameterValue": 0.36192864
                     },
                     {
                         "Time": 12.907604,
-                        "ParameterValue": 0.20513596
+                        "ParameterValue": 0.31866747
                     },
                     {
                         "Time": 12.912604,
-                        "ParameterValue": 0.1904247
+                        "ParameterValue": 0.29293668
                     },
                     {
                         "Time": 12.913604,
-                        "ParameterValue": 0.23324414
+                        "ParameterValue": 0.36724913
                     },
                     {
                         "Time": 12.931604,
-                        "ParameterValue": 0.18150419
+                        "ParameterValue": 0.27719936
                     },
                     {
                         "Time": 12.935604,
-                        "ParameterValue": 0.17014016
+                        "ParameterValue": 0.25696832
                     },
                     {
                         "Time": 12.944604,
-                        "ParameterValue": 0.14955756
+                        "ParameterValue": 0.2196307
                     },
                     {
                         "Time": 12.946604,
-                        "ParameterValue": 0.17133595
+                        "ParameterValue": 0.2591081
                     },
                     {
                         "Time": 12.947604,
-                        "ParameterValue": 0.17100158
+                        "ParameterValue": 0.25851002
                     },
                     {
                         "Time": 12.948604,
-                        "ParameterValue": 0.20101528
+                        "ParameterValue": 0.31148502
                     },
                     {
                         "Time": 12.951604,
-                        "ParameterValue": 0.19899678
+                        "ParameterValue": 0.30796006
                     },
                     {
                         "Time": 12.953625,
-                        "ParameterValue": 0.21677957
+                        "ParameterValue": 0.33887213
                     },
                     {
                         "Time": 12.959625,
-                        "ParameterValue": 0.19825542
+                        "ParameterValue": 0.30666423
                     },
                     {
                         "Time": 12.965625,
-                        "ParameterValue": 0.18360467
+                        "ParameterValue": 0.28091538
                     },
                     {
                         "Time": 12.967625,
-                        "ParameterValue": 0.21537822
+                        "ParameterValue": 0.33644697
                     },
                     {
                         "Time": 12.970625,
-                        "ParameterValue": 0.20895521
+                        "ParameterValue": 0.32530895
                     },
                     {
                         "Time": 12.971625,
-                        "ParameterValue": 0.29286367
+                        "ParameterValue": 0.46871826
                     },
                     {
                         "Time": 12.973625,
-                        "ParameterValue": 0.29134554
+                        "ParameterValue": 0.46615273
                     },
                     {
                         "Time": 12.975625,
-                        "ParameterValue": 0.28225037
+                        "ParameterValue": 0.45076597
                     },
                     {
                         "Time": 12.9766245,
-                        "ParameterValue": 0.39457354
+                        "ParameterValue": 0.6428001
                     },
                     {
                         "Time": 12.977625,
-                        "ParameterValue": 0.50538087
+                        "ParameterValue": 0.82368785
                     },
                     {
                         "Time": 12.978625,
-                        "ParameterValue": 0.6216136
+                        "ParameterValue": 0.8656303
                     },
                     {
                         "Time": 12.979625,
-                        "ParameterValue": 0.6216136
+                        "ParameterValue": 0.8656303
                     },
                     {
                         "Time": 12.981625,
-                        "ParameterValue": 0.61303157
+                        "ParameterValue": 0.85366905
                     },
                     {
                         "Time": 12.984625,
-                        "ParameterValue": 0.5815495
+                        "ParameterValue": 0.8097896
                     },
                     {
                         "Time": 12.987625,
-                        "ParameterValue": 0.55071557
+                        "ParameterValue": 0.8988543
                     },
                     {
                         "Time": 12.989625,
-                        "ParameterValue": 0.5315951
+                        "ParameterValue": 0.8671649
                     },
                     {
                         "Time": 12.991625,
-                        "ParameterValue": 0.5158612
+                        "ParameterValue": 0.8410743
                     },
                     {
                         "Time": 12.993625,
-                        "ParameterValue": 0.50235856
+                        "ParameterValue": 0.8186728
                     },
                     {
                         "Time": 12.994625,
-                        "ParameterValue": 0.6331373
+                        "ParameterValue": 0.88169116
                     },
                     {
                         "Time": 12.995625,
-                        "ParameterValue": 0.6321449
+                        "ParameterValue": 0.8803081
                     },
                     {
                         "Time": 12.997624,
-                        "ParameterValue": 0.61793107
+                        "ParameterValue": 0.8604977
                     },
                     {
                         "Time": 13.000625,
-                        "ParameterValue": 0.5877031
+                        "ParameterValue": 0.81836665
                     },
                     {
                         "Time": 13.001625,
-                        "ParameterValue": 0.57718873
+                        "ParameterValue": 0.80371135
                     },
                     {
                         "Time": 13.014646,
-                        "ParameterValue": 0.4800374
+                        "ParameterValue": 0.7816162
                     },
                     {
                         "Time": 13.016645,
-                        "ParameterValue": 0.43397543
+                        "ParameterValue": 0.7081515
                     },
                     {
                         "Time": 13.026646,
-                        "ParameterValue": 0.48500788
+                        "ParameterValue": 0.7898708
                     },
                     {
                         "Time": 13.030645,
-                        "ParameterValue": 0.50859153
+                        "ParameterValue": 0.82901484
                     },
                     {
                         "Time": 13.038646,
-                        "ParameterValue": 0.44857502
+                        "ParameterValue": 0.72932374
                     },
                     {
                         "Time": 13.047646,
-                        "ParameterValue": 0.4368982
+                        "ParameterValue": 0.70989555
                     },
                     {
                         "Time": 13.053646,
-                        "ParameterValue": 0.45610577
+                        "ParameterValue": 0.7418474
                     },
                     {
                         "Time": 13.059667,
-                        "ParameterValue": 0.42461908
+                        "ParameterValue": 0.6894515
                     },
                     {
                         "Time": 13.060666,
-                        "ParameterValue": 0.5270333
+                        "ParameterValue": 0.7339565
                     },
                     {
                         "Time": 13.080667,
-                        "ParameterValue": 0.498612
+                        "ParameterValue": 0.81245506
                     },
                     {
                         "Time": 13.085667,
-                        "ParameterValue": 0.47894174
+                        "ParameterValue": 0.77979636
                     },
                     {
                         "Time": 13.086666,
-                        "ParameterValue": 0.43267056
+                        "ParameterValue": 0.705989
                     },
                     {
                         "Time": 13.0946665,
-                        "ParameterValue": 0.49657384
+                        "ParameterValue": 0.80907226
                     },
                     {
                         "Time": 13.095667,
-                        "ParameterValue": 0.5538016
+                        "ParameterValue": 0.9039674
                     },
                     {
                         "Time": 13.100667,
-                        "ParameterValue": 0.5269308
+                        "ParameterValue": 0.85943174
                     },
                     {
                         "Time": 13.103666,
-                        "ParameterValue": 0.5625621
+                        "ParameterValue": 0.9184798
                     },
                     {
                         "Time": 13.104667,
-                        "ParameterValue": 0.64924324
+                        "ParameterValue": 0.90413815
                     },
                     {
                         "Time": 13.122687,
-                        "ParameterValue": 0.50428456
+                        "ParameterValue": 0.8218687
                     },
                     {
                         "Time": 13.125688,
-                        "ParameterValue": 0.56956947
+                        "ParameterValue": 0.9300857
                     },
                     {
                         "Time": 13.127687,
-                        "ParameterValue": 0.5729596
+                        "ParameterValue": 0.79796094
                     },
                     {
                         "Time": 13.150687,
-                        "ParameterValue": 0.49201027
+                        "ParameterValue": 0.801497
                     },
                     {
                         "Time": 13.161708,
-                        "ParameterValue": 0.40190265
+                        "ParameterValue": 0.65158874
                     },
                     {
                         "Time": 13.171708,
-                        "ParameterValue": 0.33160907
+                        "ParameterValue": 0.53397506
                     },
                     {
                         "Time": 13.187708,
-                        "ParameterValue": 0.24692366
+                        "ParameterValue": 0.3906856
                     },
                     {
                         "Time": 13.198709,
-                        "ParameterValue": 0.19962211
+                        "ParameterValue": 0.3090526
                     },
                     {
                         "Time": 13.241729,
-                        "ParameterValue": 0.11609935
+                        "ParameterValue": 0.15975325
                     },
                     {
                         "Time": 13.28275,
-                        "ParameterValue": 0.08091076
+                        "ParameterValue": 0.109845616
                     },
                     {
                         "Time": 13.29375,
-                        "ParameterValue": 0.1143378
+                        "ParameterValue": 0.15726809
                     },
                     {
                         "Time": 13.29875,
-                        "ParameterValue": 0.18188469
+                        "ParameterValue": 0.27787304
                     },
                     {
                         "Time": 13.31375,
-                        "ParameterValue": 0.14613897
+                        "ParameterValue": 0.21331652
                     },
                     {
                         "Time": 13.317771,
-                        "ParameterValue": 0.26368713
+                        "ParameterValue": 0.41926515
                     },
                     {
                         "Time": 13.32577,
-                        "ParameterValue": 0.23213528
+                        "ParameterValue": 0.3653442
                     },
                     {
                         "Time": 13.328771,
-                        "ParameterValue": 0.31068292
+                        "ParameterValue": 0.49877974
                     },
                     {
                         "Time": 13.335771,
-                        "ParameterValue": 0.28058937
+                        "ParameterValue": 0.44795287
                     },
                     {
                         "Time": 13.336771,
-                        "ParameterValue": 0.4249313
+                        "ParameterValue": 0.69316036
                     },
                     {
                         "Time": 13.35377,
-                        "ParameterValue": 0.3977505
+                        "ParameterValue": 0.6446617
                     },
                     {
                         "Time": 13.359771,
-                        "ParameterValue": 0.3552805
+                        "ParameterValue": 0.5736731
                     },
                     {
                         "Time": 13.377791,
-                        "ParameterValue": 0.2691591
+                        "ParameterValue": 0.42856547
                     },
                     {
                         "Time": 13.3827915,
-                        "ParameterValue": 0.3273813
+                        "ParameterValue": 0.5268728
                     },
                     {
                         "Time": 13.384791,
-                        "ParameterValue": 0.3963977
+                        "ParameterValue": 0.6458281
                     },
                     {
                         "Time": 13.399792,
-                        "ParameterValue": 0.39970437
+                        "ParameterValue": 0.6479216
                     },
                     {
                         "Time": 13.400791,
-                        "ParameterValue": 0.4411093
+                        "ParameterValue": 0.71690345
                     },
                     {
                         "Time": 13.412791,
-                        "ParameterValue": 0.46095005
+                        "ParameterValue": 0.749901
                     },
                     {
                         "Time": 13.420813,
-                        "ParameterValue": 0.43793145
+                        "ParameterValue": 0.7116152
                     },
                     {
                         "Time": 13.446813,
-                        "ParameterValue": 0.30146316
+                        "ParameterValue": 0.48323742
                     },
                     {
                         "Time": 13.449812,
-                        "ParameterValue": 0.32398126
+                        "ParameterValue": 0.52537245
                     },
                     {
                         "Time": 13.457812,
-                        "ParameterValue": 0.40607402
+                        "ParameterValue": 0.6585457
                     },
                     {
                         "Time": 13.467813,
-                        "ParameterValue": 0.3439103
+                        "ParameterValue": 0.5546184
                     },
                     {
                         "Time": 13.470833,
-                        "ParameterValue": 0.37143818
+                        "ParameterValue": 0.6043723
                     },
                     {
                         "Time": 13.493834,
-                        "ParameterValue": 0.3135404
+                        "ParameterValue": 0.5035921
                     },
                     {
                         "Time": 13.501833,
-                        "ParameterValue": 0.27567688
+                        "ParameterValue": 0.43962678
                     },
                     {
                         "Time": 13.521854,
-                        "ParameterValue": 0.22033536
+                        "ParameterValue": 0.3450183
                     },
                     {
                         "Time": 13.539854,
-                        "ParameterValue": 0.2096272
+                        "ParameterValue": 0.326476
                     },
                     {
                         "Time": 13.569854,
-                        "ParameterValue": 0.13047357
+                        "ParameterValue": 0.18380803
                     },
                     {
                         "Time": 13.571875,
-                        "ParameterValue": 0.15325178
+                        "ParameterValue": 0.22641298
                     },
                     {
                         "Time": 13.594874,
-                        "ParameterValue": 0.10676797
+                        "ParameterValue": 0.14657682
                     },
                     {
                         "Time": 13.641895,
-                        "ParameterValue": 0.06621243
+                        "ParameterValue": 0.08870747
                     },
                     {
                         "Time": 13.716916,
-                        "ParameterValue": 0.03087552
+                        "ParameterValue": 0.0347898
                     },
                     {
                         "Time": 14.000042,
-                        "ParameterValue": 0.0260818
+                        "ParameterValue": 0.026084522
                     },
                     {
                         "Time": 14.001041,
-                        "ParameterValue": 0.02608164
+                        "ParameterValue": 0.02608421
                     },
                     {
                         "Time": 15.000438,
